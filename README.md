@@ -1,3 +1,5 @@
+#EasyFramer
+
 Below are the steps to get the plugin running. You can also find instructions at:
 
   https://www.figma.com/plugin-docs/setup/
