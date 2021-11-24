@@ -1,10 +1,10 @@
 {
-  "name": "Figmatic",
+  "name": "EasyFramer",
   "id": "1039612610420362774",
   "api": "1.0.0",
-  "main": "code.js",
+  "main": "easyframer.js",
   "editorType": [
     "figma"
-  ],
-  "ui": "ui.html"
+  ]
+  
 }

@@ -1,13 +1,13 @@
 {
-  "name": "Figmatic",
+  "name": "EasyFramer",
   "version": "1.0.0",
-  "description": "Figma Task Automator",
-  "main": "code.js",
+  "description": "Easily wrap your components, media or texts on a frame.",
+  "main": "easyframer.js",
   "scripts": {
     "build": "tsc -p tsconfig.json"
   },
-  "author": "",
-  "license": "",
+  "author": "YJDev",
+  "license": "MIT",
   "dependencies": {
     "typescript": "^4.4.4"
   },
