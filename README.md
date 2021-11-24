@@ -1,4 +1,4 @@
-#EasyFramer
+# EasyFramer
 
 Below are the steps to get the plugin running. You can also find instructions at:
 
